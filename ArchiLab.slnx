@@ -1,0 +1,19 @@
+<Solution>
+  <Folder Name="/CQRS/">
+    <Project Path="CQRS/Application/Application.csproj" />
+  </Folder>
+  <Folder Name="/DomainDriven/">
+    <Project Path="DomainDrivenDesign/Domain/Domain.csproj" />
+  </Folder>
+  <Folder Name="/ObserverPattern/">
+    <Project Path="ObserverPattern/Application/Application.csproj" />
+  </Folder>
+  <Folder Name="/OutboxPattern/">
+    <Project Path="OutboxPattern/Application/Application.csproj" />
+    <Project Path="OutboxPattern/Worker/Worker.csproj" />
+  </Folder>
+  <Folder Name="/StrategyPattern/">
+    <Project Path="StrategyPattern/Strategy/Strategy.csproj" />
+  </Folder>
+  <Project Path="FileUploadWithCloudinary/FileUploadWithCloudinary.csproj" />
+</Solution>
